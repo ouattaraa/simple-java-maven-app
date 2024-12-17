@@ -1,3 +1,4 @@
+
 pipeline {
     agent any
         stage('Build') {
@@ -21,4 +22,3 @@ pipeline {
             }
         }
     }
-}
